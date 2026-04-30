@@ -1,7 +1,7 @@
 {
   "version": 1,
   "locale": "en_US",
-  "platform": "4.5.0",
+  "platform": "4.4.2",
   "metadata": {
     "appmode": "quarto-render",
     "primary_rmd": "20260430_phrp_report_html_version.qmd",
@@ -10,7 +10,7 @@
     "has_parameters": false
   },
   "quarto": {
-    "version": "1.9.37",
+    "version": "1.4.550",
     "engines": ["knitr"]
   },
   "packages": {
