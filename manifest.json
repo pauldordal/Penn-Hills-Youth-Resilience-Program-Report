@@ -3,14 +3,14 @@
   "locale": "en_US",
   "platform": "4.5.0",
   "metadata": {
-    "appmode": "quarto-render",
+    "appmode": "quarto-static",
     "primary_rmd": "20260430_phrp_report_html_version.qmd",
     "primary_html": null,
     "content_category": null,
     "has_parameters": false
   },
   "quarto": {
-    "version": "1.4.550",
+    "version": "1.9.37",
     "engines": ["knitr"]
   },
   "packages": {
@@ -5240,7 +5240,7 @@
   },
   "files": {
     ".posit/publish/deployments/deployment-PAM7.toml": {
-      "checksum": "ffee5fab3b04f7d22d64d59807a4ca6b"
+      "checksum": "c07e827a026c6dc1761de7655d7e530c"
     },
     ".posit/publish/Youth Resilience Program - Dat-CCUI.toml": {
       "checksum": "a037ff273319d6499f0e01c4d17fb890"
