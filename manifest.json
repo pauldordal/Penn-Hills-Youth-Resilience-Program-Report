@@ -1,7 +1,7 @@
 {
   "version": 1,
   "locale": "en_US",
-  "platform": "4.4.2",
+  "platform": "4.5.0",
   "metadata": {
     "appmode": "quarto-render",
     "primary_rmd": "20260430_phrp_report_html_version.qmd",
