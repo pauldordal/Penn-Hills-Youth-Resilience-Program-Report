@@ -10,7 +10,7 @@
     "has_parameters": false
   },
   "environment": {
-    "image": "r-ver:4.5.04.5.0"
+    "image": "r-ver:4.5.0"
   },
   "quarto": {
     "version": "1.9.37",
