@@ -1,16 +1,13 @@
 {
   "version": 1,
   "locale": "en_US",
-  "platform": "4.5.3",
+  "platform": "4.5.0",
   "metadata": {
-    "appmode": "quarto-static",
+    "appmode": "quarto-render",
     "primary_rmd": "20260430_phrp_report_html_version.qmd",
     "primary_html": null,
     "content_category": null,
     "has_parameters": false
-  },
-  "environment": {
-    "image": "r-ver:4.5.3"
   },
   "quarto": {
     "version": "1.9.37",
